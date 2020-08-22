@@ -137,8 +137,3 @@ class Window(QWidget):
 app = QApplication(sys.argv)
 window = Window()
 sys.exit(app.exec_())
-        
-        
-        
-        
-        
