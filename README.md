@@ -5,8 +5,8 @@ Python SMTP Gmail
 
 - PyQt5
 - Python 3
-- Daha az güvenli uygulamalar için bu [linke][2] gidiyoruz ve güvenliği
-kaldırıyoruz.
+- Daha az güvenli uygulamalar için [bu linke][2] gidiyoruz ve güvenliği
+kaldırıyoruz. (Açık yapın)
 
 
 # Sponsor
